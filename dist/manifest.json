@@ -1,0 +1,16 @@
+{
+  "name": "MoodSpace",
+  "description": "The productivity & wellness extension that will help you reach your goals!",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "icons": {
+    "16": "Logo16x16.png",
+    "48": "Logo42x42.png",
+    "128": "Logo128x128.png"
+  },
+  "action": {
+    "default_title": "MoodSpace",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage"]
+}

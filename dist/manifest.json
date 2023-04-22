@@ -8,9 +8,13 @@
     "48": "Logo42x42.png",
     "128": "Logo128x128.png"
   },
+  "oauth2": {
+    "client_id": "824586914859-p2a327uin03b8qapn6q3bt28co2puhc8.apps.googleusercontent.com",
+    "scopes": ["https://www.googleapis.com/auth/userinfo.email"]
+  },
   "action": {
     "default_title": "MoodSpace",
     "default_popup": "popup.html"
   },
-  "permissions": ["storage"]
+  "permissions": ["storage", "identity"]
 }

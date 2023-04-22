@@ -11,8 +11,10 @@ MoodSpace is designed to be simple and easy to use, and saves data locally, It's
 Add MoodSpace to your browser, and add a little bit of colour to your daily routine. 🍭😊
 
 <img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
+
 ### While my extension is still in review, you can follow these steps to test the v1 out. 😢
 I'll send out the link the second its approved, but you can admire the preview page in the mean time! 👇
+
 <img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
 <img width="668" alt="Screen Shot 2023-04-22 at 4 58 32 PM" src="https://user-images.githubusercontent.com/63084147/233806500-832178f3-85ef-4862-824f-c0bad73b4186.png">
 

@@ -3,7 +3,7 @@ Introducing MoodSpace 🌻, the productivity & wellness extension that helps you
 
 MoodSpace is like a mini journal travelling with you everywhere, but with superpowers! 🦸‍♀️ Right now, you can track your moods and to-dos with ease, reflect and gain insights about yourself. But that's not all - with AI powered analytics, accountability support systems, CBT based guided reflections and personalized coaching features coming soon, MoodSpace is constantly evolving to meet your needs. 📈👀
 
-Current Features: 
+#### Current Features: 
 Keep track of your daily progress, set intentions, and jot down your thoughts with ease, using our intuitive mood journaling interface. 📝 Our calendar feature lets you interact with your data in a fun and engaging way, growing a little bit every day, just like you! 🌱💪
 
 MoodSpace is designed to be simple and easy to use, and saves data locally, It's the perfect sidekick to help you navigate your busy life, and stay on track with your wellness goals. 🤖🙌

@@ -1,12 +1,6 @@
 # MoodSpace
 Introducing MoodSpace 🌻, the productivity & wellness extension that helps you reach your goals. It's a place to let your thoughts run loose, get actionable insights, and personalized support. 🏄‍♀️🧘‍♀️
 
-
-
-https://user-images.githubusercontent.com/63084147/233811896-58190b5f-9bd5-4eca-9584-54e03f711977.mov
-
-
-
 MoodSpace is like a mini journal travelling with you everywhere, but with superpowers! 🦸‍♀️ Right now, you can track your moods and to-dos with ease, reflect and gain insights about yourself. But that's not all - with AI powered analytics, accountability support systems, CBT based guided reflections and personalized coaching features coming soon, MoodSpace is constantly evolving to meet your needs. 📈👀
 
 #### Current Features: 
@@ -15,6 +9,11 @@ Keep track of your daily progress, set intentions, and jot down your thoughts wi
 MoodSpace is designed to be simple and easy to use, and saves data locally, It's the perfect sidekick to help you navigate your busy life, and stay on track with your wellness goals. 🤖🙌
 
 Add MoodSpace to your browser, and add a little bit of colour to your daily routine. 🍭😊
+
+
+<img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
+
+https://user-images.githubusercontent.com/63084147/233811896-58190b5f-9bd5-4eca-9584-54e03f711977.mov
 
 <img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
 

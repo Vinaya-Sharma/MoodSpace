@@ -21,9 +21,6 @@ https://user-images.githubusercontent.com/63084147/233811896-58190b5f-9bd5-4eca-
 I'll send out the link the second its approved, but you can admire the preview page in the mean time! 👇
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/63084147/233812125-4cd08e4f-bd5f-42dc-b5ab-929c2e6a8a89.gif)
-
-
-<img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
 <img width="668" alt="Screen Shot 2023-04-22 at 4 58 32 PM" src="https://user-images.githubusercontent.com/63084147/233806500-832178f3-85ef-4862-824f-c0bad73b4186.png">
 
 

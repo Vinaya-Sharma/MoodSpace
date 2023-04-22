@@ -4,8 +4,8 @@ While my extension is still in review you can follow these steps to test the v1 
 <img width="1091" alt="Screen Shot 2023-04-22 at 3 56 34 PM" src="https://user-images.githubusercontent.com/63084147/233804018-43c9bee4-2dd2-4a9e-9934-9825962ace3c.png">
 
 
-## Downloading and setting up the extension is super simple, just takes 2 minutes. 
-## I'll send out the link the second its approved!!
+### Downloading and setting up the extension is super simple, just takes 2 minutes. 
+### I'll send out the link the second its approved!!
 
 ![1](https://user-images.githubusercontent.com/63084147/233804026-7ea3b6c1-2067-47b8-b099-da26f0339674.png)
 

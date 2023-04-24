@@ -17,10 +17,8 @@ https://user-images.githubusercontent.com/63084147/233811896-58190b5f-9bd5-4eca-
 
 <img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
 
-### While my extension is still in review, you can follow these steps to test the v1 out. 😢
-I'll send out the link the second its approved, but you can admire the preview page in the mean time! 👇
-
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/63084147/233812125-4cd08e4f-bd5f-42dc-b5ab-929c2e6a8a89.gif)
+## You can grab the extension here from the chrome web store: https://chrome.google.com/webstore/detail/moodspace/jfkcnjgdhdndmoccolfpndjncofeoeoh?hl=en&authuser=0
+If you want the most recent version (with some small UI fixes) manually install the extention with the steps below. I'll update here when the changes are approved and reflected in the web store. 
 
 
 ### Downloading and setting up the extension is super simple, just takes 2 minutes. 

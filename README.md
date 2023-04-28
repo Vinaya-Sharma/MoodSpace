@@ -10,13 +10,15 @@ MoodSpace is designed to be simple and easy to use, and saves data locally, It's
 
 Add MoodSpace to your browser, and add a little bit of colour to your daily routine. 🍭😊
 
-<img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
-
-### While my extension is still in review, you can follow these steps to test the v1 out. 😢
-I'll send out the link the second its approved, but you can admire the preview page in the mean time! 👇
 
 <img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
-<img width="668" alt="Screen Shot 2023-04-22 at 4 58 32 PM" src="https://user-images.githubusercontent.com/63084147/233806500-832178f3-85ef-4862-824f-c0bad73b4186.png">
+
+https://user-images.githubusercontent.com/63084147/233811896-58190b5f-9bd5-4eca-9584-54e03f711977.mov
+
+<img width="290" alt="Screen Shot 2023-04-22 at 5 08 20 PM" src="https://user-images.githubusercontent.com/63084147/233806685-fa34fc1c-43c4-40e4-a038-c40caaa644db.png">
+
+## You can grab the extension here from the chrome web store: https://chrome.google.com/webstore/detail/moodspace/jfkcnjgdhdndmoccolfpndjncofeoeoh?hl=en&authuser=0
+If you want the most recent version (with some small UI fixes) manually install the extention with the steps below. I'll update here when the changes are approved and reflected in the web store. 
 
 
 ### Downloading and setting up the extension is super simple, just takes 2 minutes. 
